@@ -5,5 +5,5 @@
 利用paramiko将服务器的文件批量匹配并下载到本地
 在config.json文件中写入需要连接的服务器信息等
 使用python批量匹配下载。
-
+参考：https://www.cnblogs.com/kellyseeme/p/5525030.html
 
