@@ -1,0 +1,15 @@
+[{
+    "server_ip": '127.0.0.1',
+    "server_dir": '/home/root/',
+    "server_port": 22,
+    'username': 'root',
+    'password': 'aaaaaaaa',
+    'prefix': 'prefix'
+}, {
+    "server_ip": '127.0.0.1',
+    "server_dir": '/home/root/',
+    "server_port": 22,
+    'username': 'root',
+    'password': 'password',
+    'prefix': 'prefix'
+}]
